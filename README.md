@@ -26,12 +26,12 @@
 
  # Home Page
 
-![Image](https://github.com/user-attachments/assets/5bbccf6f-b618-4cde-a25c-280d7ecead8c)
-![Image](https://github.com/user-attachments/assets/96790805-4223-4440-81a7-7f4ec2fdb944)
-![Image](https://github.com/user-attachments/assets/2cf97a96-a6a7-4d8f-94be-71e63d896483)
-![Image](https://github.com/user-attachments/assets/2fa83cad-4ecd-4e54-b407-56b609408b7b)
-![Image](https://github.com/user-attachments/assets/8b4d9eaa-3dea-49cc-85bf-77df41238f3b)
-![Image](https://github.com/user-attachments/assets/f5ac986c-c9e2-408e-9bd5-f534eafd5624)
+![Image](https://github.com/user-attachments/assets/59a33eff-c3e1-43ec-bdff-1b818ebc32ce)
+![Image](https://github.com/user-attachments/assets/7c0124c5-06aa-4fb1-8390-23bba0bfda99)
+![Image](https://github.com/user-attachments/assets/e1c63467-ea11-4f83-adf8-7c4b495eb0f1)
+![Image](https://github.com/user-attachments/assets/f7c742e4-0d23-4cdd-9114-b2dfe6c3a0eb)
+![Image](https://github.com/user-attachments/assets/5d78971c-0a2f-4606-a6dc-a564a41d975c)
+![Image](https://github.com/user-attachments/assets/03eb6a01-ddbf-479f-8abf-09634ab7929e)
 
 The Home Page consists of 4 main sections:
 
@@ -61,7 +61,7 @@ It contains useful links users may need it.
  
  <div align="center"><a name="menu"></a>
 
-![Image](https://github.com/user-attachments/assets/560385d1-16c0-43ec-ab93-19e8c116d748)
+![Image](https://github.com/user-attachments/assets/b9bf1d9e-82ff-4351-ae10-227125720d34)
 </div>
 
 The Login Page consists of 3 main sections:
@@ -90,7 +90,7 @@ It contains useful links users may need it.
  
 <div align="center"><a name="menu"></a>
 
-![Image](https://github.com/user-attachments/assets/82ae84d2-5f0e-42d5-beac-26b18e8011e6)
+![Image](https://github.com/user-attachments/assets/6b4b1fcc-8111-4e35-a576-b7d67f7e9759)
 </div>
 
 The Sign-up Page consists of 3 main sections:
@@ -119,10 +119,10 @@ It contains useful links users may need it.
 
 <div align="center"><a name="menu"></a>
 
-![Image](https://github.com/user-attachments/assets/f2c24e97-cd91-411d-9378-66664164d325)
-![Image](https://github.com/user-attachments/assets/baa888e4-9b34-4487-82b5-36a15edc0d35)
-![Image](https://github.com/user-attachments/assets/01621d1e-8473-4f60-aa4f-157103c530c3)
-![Image](https://github.com/user-attachments/assets/e2fe2a62-c8e0-4656-84d1-25f4b7bdf91f)
+![Image](https://github.com/user-attachments/assets/7358759f-05c5-4a65-b88b-d236c71af4a5)
+![Image](https://github.com/user-attachments/assets/d8a150b8-4d29-455b-abf0-168a3bb355b5)
+![Image](https://github.com/user-attachments/assets/d08fb81a-3c1e-4d32-8ea2-09922a33a11d)
+![Image](https://github.com/user-attachments/assets/a92e97ad-eb6b-4a6a-95f1-59b7631e8ae7)
 </div>
 
 The Browse Page consists of 5 main sections:
@@ -162,9 +162,9 @@ The Browse Page consists of 5 main sections:
   - **Play Button** to start the video and a **Similar Content Slider**.
 - **Card Feature**: Displays additional details below the card. Close by clicking the **close icon**.
 
-![Image](https://github.com/user-attachments/assets/3133f207-52ca-40db-9ac7-e804a96990ae)
-![Image](https://github.com/user-attachments/assets/c7b137a2-8f05-4499-9f39-c1cf7173c35a)
-![Image](https://github.com/user-attachments/assets/aeabf2c9-627b-4474-b20c-fcf361bc6034)
+![Image](https://github.com/user-attachments/assets/a4b77133-f244-44ba-b0fb-085e73c67bc7)
+![Image](https://github.com/user-attachments/assets/8c6a62b6-2c46-421e-8b33-87f7e07904eb)
+![Image](https://github.com/user-attachments/assets/c283fac4-fd16-4362-80f4-905fa2d36016)
 
 </div>
 
@@ -173,7 +173,7 @@ The Browse Page consists of 5 main sections:
 - You can view and delete individual items from the search history.
 - History is updated with each new search.
 
-![Image](https://github.com/user-attachments/assets/1e2be9f1-8729-472e-8c53-22dc53d89765)
+![Image](https://github.com/user-attachments/assets/a5a0c92f-7498-425b-ad4b-c69738050588)
 
 ***5) Footer:***
 It contains useful links users may need it.
